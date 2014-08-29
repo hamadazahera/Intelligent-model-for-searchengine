@@ -1,0 +1,65 @@
+_______________________________________________________________________________________________________________________________
+********.... ********....*******(( Data Set1 )) ********.... ********....*******
+_______________________________________________________________________________________________________________________________
+
+------------------ Step 1 : Page Vectorization -------------
+
+Number of Pages : 500                       Frequency Range : 1-50
+Number of Keywords : 20                     Score Range : 1-100
+
+------------------ Step 2 : Page Clustering ----------------
+
+Algorithm used : k-mean
+Proposed : Improved K-mean , Fuzzy C-mean
+
+Number of Clusters = 5
+
+------------------ Step 3 : Optimization   ----------------
+
+Number of Chromosomes =40
+Chromosome Length = 200
+Best of the Best Pages = 10
+
+_______________________________________________________________________________________________________________________________
+********.... ********....*******(( Data Set2 )) ********.... ********....*******
+_______________________________________________________________________________________________________________________________
+
+------------------ Step 1 : Page Vectorization -------------
+
+Number of Pages : 1000                      Frequency Range : 1-50
+Number of Keywords : 30                     Score Range : 1-100
+
+------------------ Step 2 : Page Clustering ----------------
+
+Algorithm used : k-mean
+Proposed : Improved K-mean , Fuzzy C-mean
+
+Number of Clusters = 5
+
+------------------ Step 3 : Optimization   ----------------
+
+Number of Chromosomes =40
+Chromosome Length = 200
+Best of the Best Pages = 10
+
+_______________________________________________________________________________________________________________________________
+********.... ********....*******(( Data Set3 )) ********.... ********....*******
+_______________________________________________________________________________________________________________________________
+
+------------------ Step 1 : Page Vectorization -------------
+
+Number of Pages : 10000                     Frequency Range : 1-50
+Number of Keywords : 50                     Score Range : 1-100
+
+------------------ Step 2 : Page Clustering ----------------
+
+Algorithm used : k-mean
+Proposed : Improved K-mean , Fuzzy C-mean
+
+Number of Clusters = 5
+
+------------------ Step 3 : Optimization   ----------------
+
+Number of Chromosomes =40
+Chromosome Length = 200
+Best of the Best Pages = 10
